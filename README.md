@@ -77,3 +77,9 @@ This will retain only files that have the same name in both folders.
 2) Run the `intersect-gt-and-pred.py` script to move non-intersected files into a backup folder (default: `backup_no_matches_found`).
 
 `python intersect-gt-and-pred.py`
+
+## Usage of xml2txt.py
+- create ```xml``` folder to store xml files
+- run 
+`python xml2txt.py`
+- a new folder ```xml2txt``` will appear automatically to save txt files.
